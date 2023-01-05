@@ -1,5 +1,4 @@
-# Hey there! I'm Linh 👋
-### ⭐️ Frontend Engineer ⭐️
+<h1 align="center">Hey there! I'm Linh 👋</h1>
 
 ### 👨🏻‍💻 About Me
 
